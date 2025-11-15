@@ -51,12 +51,13 @@ Foram realizadas análises exploratórias por departamento, comparando:
 
 ### **5. Construção dos Gráficos**
 
-Foram utilizados **gráficos de barras** para comparar engajamento entre grupos de tempo de empresa, e **gráficos de linhas** para mostrar tendências ao longo do tempo.
+Foram utilizados **gráficos de barras** para comparar engajamento entre grupos de tempo de empresa, e **gráficos de combinações** de barras e linhas para mostrar duas variáveis diferentes e tendências ao longo do tempo.
 
 **Justificativa das escolhas:**
 
 - **Barras:** ideais para comparar categorias discretas.
 - **Linhas:** eficazes para mostrar evolução temporal ou tendência.
+- 
 
 **Aplicação de boas práticas visuais:**
 
