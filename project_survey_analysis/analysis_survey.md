@@ -12,7 +12,7 @@ A análise  foi conduzido com base nos princípios da **Visualização de Dados 
 
 - Tabela do resultado da Pesquisa Anual de Engajamento dos Funcionários
 
-![image.jpg](image:image.png)
+![image.jpg](IMG/image.png)
 
 **Metodologia Aplicada:**
 
@@ -24,59 +24,58 @@ A análise  foi conduzido com base nos princípios da **Visualização de Dados 
 
 - Planilhas para organização
 - Ferramentas de visualização para gráficos
-- Análise manual para interpretação dos resultados
 
 **3. Análises Realizadas** 
 
-![image.png](image (1):image.png)
+![image.png](IMG/image%20A.png)
 
 - **Departamento de Engenharia:** Quanto maior o tempo de permanência na empresa maior é a média de engajamento, a partir de 1-5 ano na empresa há um aumento considerável nessa média.
 
-![image.png](image (2):image.png)
+![image.png](IMG/image%20B.png)
 
 - **Departamento de Marketing:** Este é o único departamento com um movimento de engajamento "inverso e inconstante": começa alto para quem tem menos de 1 ano (78), cai para o grupo de 1-5 anos (72) e depois se recupera levemente no grupo de 5+ anos (75).
 
-![image.png](image (3):image.png)
+![image.png](IMG/image%20C.png)
 
 - **Departamento de HR:** O engajamento apresenta um crescimento linear (60, 62, 77), com um salto significativo no grupo de 5+ anos.
 
-![image.png](image (4):image.png)
+![image.png](IMG/image%20D.png)
 
 - **Departamento de Sales:** O engajamento aumenta com o tempo de permanência (62, 81, 85), com um aumento considerável a partir de 1 ano na empresa e o maior salto no grupo de 5+ anos.
 
 **Comparação Média de Engajamento VS.  Média Salarial**
 
-![image.png](image (5):image.png)
+![image.png](IMG/image%20E.png)
 
 - **Departamento de Engenharia:** A média salarial e engajamento aumentam de forma constante com o tempo de permanência na empresa, sugerindo uma possível correlação.
 
-![image.png](image (6):image.png)
+![image.png](IMG/image%20F.png)
 
 - **Departamento de Marketing:** Apesar de ter uma média salarial alta para os grupos de 1-5 anos ($80.000) e 5+ anos ($105.000), o engajamento nesses grupos é baixo, indicando que a média salarial pode não ser um fator primário para o baixo engajamento.
 
-![image.png](image (7):image.png)
+![image.png](IMG/image%20G.png)
 
 - **Departamento de HR:** A média salarial aumenta junto com o tempo de permanência e o engajamento, sugerindo uma possível correlação, mas é o departamento com a menor média salarial geral.
 
-![image.png](image (8):image.png)
+![image.png](IMG/image%20H.png)
 
 - **Departamento de Sales:** A média salarial aumenta junto com o tempo de permanência e o engajamento, sugerindo uma possível correlação.
 
 **Comparação Média de Engajamento VS.  Média de Desempenho**
 
-![image.png](image (9):image.png)
+![image.png](IMG/image%20I.png)
 
 - **Departamento de Engenharia:** O desempenho aumenta, assim como o engajamento e tempo de permanência, sugerindo uma possível correlação.
 
-![image.png](image (10):image.png)
+![image.png](IMG/image%20J.png)
 
 - **Departamento de Marketing:** Apesar do baixo engajamento a partir do 1-5 anos e 5+anos, a média de desempenho, se mantém na média dos demais departamentos e apresenta aumento contínuo (3.9, 4.0, 4.3).
 
-![image.png](image (11):image.png)
+![image.png](IMG/image%20K.png)
 
 - **Departamento de HR:** A média de desempenho também cresce (3.5, 3.8, 4.1), mas é considerada baixa em comparação com os outros departamentos. É importante notar que as notas de desempenho para os grupos de <1 ano e 1-5 anos estão abaixo de 4.
 
-![image.png](image (12):image.png)
+![image.png](IMG/image%20L.png)
 
 - **Departamento de Sales:** O desempenho aumenta com o tempo de permanência (3.7, 4.3, 4.6), sendo o grupo de 5+ anos o que apresenta a maior média de desempenho entre todos os departamentos.
 
