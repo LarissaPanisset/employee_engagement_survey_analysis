@@ -191,3 +191,6 @@ No **Marketing**, o engajamento cai após o primeiro ano, apesar da média salar
 O departamento de **Vendas** é um ponto forte, mostrando que é possível ter o maior engajamento e desempenho mesmo com uma média salarial comparativamente mais baixa, reforçando que a remuneração não é o único motor de engajamento e desempenho.
 
 Por fim, o departamento de **HR** requer atenção devido às baixas médias de desempenho nas faixas de permanência mais curtas (<1 ano e 1-5 anos).
+
+---
+Feito com 💙 por LARISSA PANISSET
